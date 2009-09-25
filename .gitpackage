@@ -1,0 +1,8 @@
+[dependency "org/as3commons/lang"]
+  commit = 1.0
+  path = org/as3commons/lang
+  url = git@github.com:collectivecolors/as3-org.as3commons.lang.git
+[dependency "org/as3commons/logging"]
+  commit = 1.1
+  path = org/as3commons/logging
+  url = git@github.com:collectivecolors/as3-org.as3commons.logging.git
